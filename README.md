@@ -1,5 +1,5 @@
 # Dynamic-Forking
-Programa que hace dynamic forking a un proceso legitimo.
+Programa para hacer dynamic forking a un proceso legitimo.
 # Uso
 Para usar el programa debes de llamar a la funcion de la siguiente forma:
 
